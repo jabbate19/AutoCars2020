@@ -1,0 +1,1098 @@
+Files to be Scanned: 90
+Starting RGB
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Green
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Green
+Correct?false
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Resuts:
+# of Red Photos Correctly Guessed Red: 19
+# of Yellow Photos Correctly Guessed Yellow: 23
+# of Green Photos Correctly Guessed Green: 21
+
+Starting HSV
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: Red
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Green
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Resuts:
+# of Red Photos Correctly Guessed Red: 4
+# of Yellow Photos Correctly Guessed Yellow: 22
+# of Green Photos Correctly Guessed Green: 18
+
+Starting YCbCr
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: Green
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: Green
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Green
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: Green
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: Green
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Red
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Green
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Green
+Correct?true
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Green
+Correct?false
+
+Actual Status:Green
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: N/A
+Correct?false
+
+Actual Status:Green
+Predicted Status: Yellow
+Correct?false
+
+Actual Status:Yellow
+Predicted Status: Yellow
+Correct?true
+
+Resuts:
+# of Red Photos Correctly Guessed Red: 0
+# of Yellow Photos Correctly Guessed Yellow: 21
+# of Green Photos Correctly Guessed Green: 24
